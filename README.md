@@ -1,8 +1,8 @@
-# 👋 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɪ ᴀᴍ ᴅᴀɴᴅᴏʀɪɪ
-
 <p align="center">
   <img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="500" alt="Computer error screen animation">
 </p>
+
+# 👋 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɪ ᴀᴍ ᴅᴀɴᴅᴏʀɪɪ
 
 🎓 BS Cybersecurity Student at Holy Angel University
 🔐 Aspiring Cybersecurity Professional | 💻 Developer | 🛡️ Security Enthusiast
@@ -10,6 +10,16 @@
 I'm a cybersecurity student passionate about learning how technology works, building practical projects, and exploring ways to make the digital world safer. I enjoy learning through hands-on experimentation, solving problems, and turning ideas into functional applications.
 
 Currently, I'm developing my programming skills and exploring web security, ethical hacking, and cybersecurity tools.
+
+## 🎮 Beyond the Terminal
+
+Outside of cybersecurity and programming, I enjoy exploring technology, building things, and discovering new interests. My hobbies give me a creative outlet and a way to unwind beyond the screen.
+
+- 🤖 **Gunpla & Model Kits** — Building, customizing, and appreciating model kits, especially Gundam.
+- 🎮 **Gaming** — Enjoying games for entertainment, exploration, and the occasional challenge.
+- 🖥️ **Technology & PC Building** — Exploring PC hardware, learning about computer components, and finding ways to improve my setup.
+- 🚗 **Cars & Diecast Collecting** — Appreciating automotive design, JDM culture, and collecting miniature cars.
+- 🎲 **Tabletop Games** — Enjoying strategy, creativity, and shared experiences through tabletop gaming.
 
 🚀 Featured Project
 
@@ -106,7 +116,4 @@ I'm always open to learning, collaborating on projects, and connecting with fell
 - **LinkedIn:** [Connect with me on LinkedIn](YOUR-LINKEDIN-PROFILE-URL)
 
 ---
-
-*Learn continuously. Build responsibly. Stay curious.* 🔐
-
 Learn continuously. Build responsibly. Stay curious. 🔐
