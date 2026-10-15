@@ -1,30 +1,112 @@
 # 👋 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɪ ᴀᴍ ᴅᴀɴᴅᴏʀɪɪ
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYxODNseG1nZm5kM3lyeGM4ZnVzbW9iaXhhd3NmZ2VkbGp4dDlrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aDS8SjVtS3Mwo/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="500" alt="Computer error screen animation">
 </p>
 
-### 🚀 ᴀʙᴏᴜᴛ ᴍᴇ
-- ɴᴀᴍᴇ: ᴍᴀʀᴄᴏ ᴅᴀɴᴅʀᴇɪ ʟ. ʀᴇʏᴇꜱ.
-- ᴄᴏᴜʀꜱᴇ: ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ
-- ʏᴇᴀʀ: 2ɴᴅ ʏᴇᴀʀ
-- ᴘᴜʙʟɪᴄ ʀᴇʟᴀᴛɪᴏɴꜱ ᴏꜰꜰɪᴄᴇʀ ꜰᴏʀ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴀʟʟɪᴀɴᴄᴇ
-- ᴄᴏᴍᴍᴜɴɪᴛʏ ʀᴇʟᴀᴛɪᴏɴꜱ ᴏꜰꜰɪᴄᴇʀ ꜰᴏʀ ɢᴏᴏɢʟᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɢʀᴏᴜᴘꜱ ᴏɴ ᴄᴀᴍᴘᴜꜱ ʜᴀᴜ ᴄʜᴀᴘᴛᴇʀ
-- ꜱʜᴏʀᴛ ʙɪᴏ: ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴍᴇ
-- ʜᴏʙʙɪᴇꜱ: ɢᴀᴍᴇꜱ, ᴄᴏᴅɪɴɢ (ɪ ɢᴜᴇꜱꜱ), ᴀɴɪᴍᴇ, ꜱᴘᴏᴛɪꜰʏ
-- ᴘʟᴀʏʟɪꜱᴛ: https://open.spotify.com/playlist/2Y0ct6VO9dGbCfWZ99Y5kx?si=dfed4ab5a1c04bfb
+🎓 BS Cybersecurity Student at Holy Angel University
+🔐 Aspiring Cybersecurity Professional | 💻 Developer | 🛡️ Security Enthusiast
 
-<!--
-**dandorii/dandorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student passionate about learning how technology works, building practical projects, and exploring ways to make the digital world safer. I enjoy learning through hands-on experimentation, solving problems, and turning ideas into functional applications.
 
-Here are some ideas to get you started:
+Currently, I'm developing my programming skills and exploring web security, ethical hacking, and cybersecurity tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Project
+
+🛡️ PhishGuard — Phishing URL & Email Analyzer
+
+A web-based cybersecurity tool designed to analyze URLs and email content for potential phishing indicators using rule-based detection and heuristic scoring.
+
+🔎 URL and email analysis
+
+📊 Risk scoring and security dashboard
+
+🗂️ Analysis history with SQLite
+
+📱 Responsive user interface
+
+⚙️ Built with Python and Flask
+
+Explore the project: GitHub Repository
+Try the live demo: PhishGuard
+
+🧰 Tech Stack & Tools
+
+Languages
+
+Python
+
+Java
+
+HTML
+
+CSS
+
+JavaScript
+
+Technologies & Tools
+
+Flask
+
+SQLite
+
+Git & GitHub
+
+Linux / Kali Linux
+
+VirtualBox
+
+Visual Studio Code
+
+Currently expanding my knowledge through hands-on projects and continuous learning.
+
+🔐 Areas of Interest
+
+Web Application Security
+
+Ethical Hacking & Penetration Testing
+
+Phishing Detection & Threat Analysis
+
+Network and Operating System Security
+
+Capture The Flag (CTF) Challenges
+
+Secure Software Development
+
+📚 Currently Learning
+
+Web penetration testing and security assessment
+
+Linux commands and security tools
+
+Python scripting for cybersecurity
+
+Common web vulnerabilities and their remediation
+
+Secure deployment of Flask applications
+
+🎯 My Goals
+
+Build practical cybersecurity projects.
+
+Develop strong programming and problem-solving skills.
+
+Learn to identify, understand, and remediate security vulnerabilities.
+
+Gain hands-on experience with ethical hacking and defensive security.
+
+Contribute to a safer and more security-aware digital community.
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating on projects, and connecting with fellow developers and cybersecurity enthusiasts.
+
+- **GitHub:** [@dandorii](https://github.com/dandorii)
+- **LinkedIn:** [Connect with me on LinkedIn](YOUR-LINKEDIN-PROFILE-URL)
+
+---
+
+*Learn continuously. Build responsibly. Stay curious.* 🔐
+
+Learn continuously. Build responsibly. Stay curious. 🔐
