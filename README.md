@@ -115,7 +115,7 @@ I'm always open to learning, collaborating on projects, and connecting with fell
   <a href="https://github.com/dandorii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="YOUR-LINKEDIN-PROFILE-URL">
+  <a href="https://www.linkedin.com/in/marco-reyes-826617309/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 </p>
