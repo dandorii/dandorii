@@ -1,152 +1,207 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="500" alt="Computer error screen animation">
-</p>
 
-# 👋 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ɪ ᴀᴍ ᴅᴀɴᴅᴏʀɪɪ
+<div align="center">
 
-<p align="center">
-  🎓 BS Cybersecurity Student at Holy Angel University
-  <br>
-  🔐 Aspiring Cybersecurity Professional | 💻 Developer | 🛡️ Security Enthusiast
-</p>
+<pre>
+ ____   __   _  _  ____   ___  ____  ___
+(  _ \ / _\ ( \/ )(  _ \ / __)(  _ \/ __)
+ )   //    \ )  /  )   /( (__  )   /\__ \
+(__\_)\_/\_/(__/  (__\_) \___)(__\_)(___/
 
-I'm a cybersecurity student passionate about learning how technology works, building practical projects, and exploring ways to make the digital world safer. I enjoy hands-on experimentation, solving problems, and turning ideas into functional applications.
+root@dandorii:~$ whoami
+</pre>
 
-Currently, I'm developing my programming skills and exploring web security, ethical hacking, and cybersecurity tools.
+<img src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" width="500" alt="Computer error screen animation">
 
----
+<pre>
+[ BS CYBERSECURITY STUDENT ]
+Holy Angel University
+Developer | Security Enthusiast | Lifelong Learner
 
-## 🎮 Beyond the Terminal
+</pre>
 
-Outside of cybersecurity and programming, I enjoy exploring technology, building things, and discovering new interests. My hobbies give me a creative outlet and a way to unwind beyond the screen.
+</div>
 
-- 🤖 **Gunpla & Model Kits** — Building, customizing, and appreciating model kits, especially Gundam.
-- 🎮 **Gaming** — Enjoying games for entertainment, exploration, and the occasional challenge.
-- 🖥️ **Technology & PC Building** — Exploring PC hardware, learning about computer components, and finding ways to improve my setup.
-- 🚗 **Cars & Diecast Collecting** — Appreciating automotive design, JDM culture, and collecting miniature cars.
-- 🎲 **Tabletop Games** — Enjoying strategy, creativity, and shared experiences through tabletop gaming.
+<pre>
+root@dandorii:~$ cat about.txt
 
----
+I'm a cybersecurity student passionate about understanding
+how technology works, building practical projects, and
+exploring ways to make the digital world safer.
 
-## 🚀 Featured Project
+I enjoy hands-on experimentation, solving problems, and
+turning ideas into functional applications.
 
-### 🛡️ [PhishGuard — Phishing URL & Email Analyzer](https://github.com/dandorii/PhishGuard)
-
-A web-based cybersecurity tool designed to analyze URLs and email content for potential phishing indicators using rule-based detection and heuristic scoring.
-
-**Features**
-- 🔎 URL and email analysis
-- 📊 Risk scoring and security dashboard
-- 🗂️ Analysis history with SQLite
-- 📱 Responsive user interface
-- ⚙️ Flask-powered backend
-
-**Built with:** Python, Flask, SQLite, HTML, CSS, and JavaScript
-
-🔗 **[View Source Code](https://github.com/dandorii/PhishGuard)**  
-🌐 **[Try the Live Demo](https://phishguard-ujkh.onrender.com/)**
+Currently exploring web security, ethical hacking,
+cybersecurity tools, and secure software development.
+</pre>
 
 ---
 
+<pre>
+root@dandorii:~$ ls ./interests
+
+[01] Gunpla & Model Kits
+     Building, customizing, and appreciating Gundam.
+
+[02] Gaming
+     Games for entertainment, exploration, and challenge.
+
+[03] Technology & PC Building
+     PC hardware, components, and system improvements.
+
+[04] Cars & Diecast Collecting
+     Automotive design, JDM culture, and miniature cars.
+
+[05] Tabletop Games
+     Strategy, creativity, and shared experiences.
+</pre>
+
 ---
 
-### 🥷 [YORU Terminal — Cybersecurity Training Simulator](https://github.com/dandorii/YoruTerminal)
+<pre>
+root@dandorii:~$ ./projects --featured
 
-A shinobi-inspired, menu-driven cybersecurity training game built with Python. YORU Terminal lets users explore cybersecurity concepts through interactive missions, investigate simulated threats, and practice security decision-making in a tactical terminal environment.
+============================================================
+[ PROJECT 01 ] PHISHGUARD
+============================================================
+</pre>
 
-**Features**
+### <code>PhishGuard — Phishing URL & Email Analyzer</code>
 
-- 🎣 **Phishing Detective** — Identify phishing indicators in suspicious messages.
-- 🔎 **Log Investigator** — Analyze simulated system logs and investigate unusual activity.
-- 🧩 **Security Puzzle Room** — Explore encoding concepts, password security, and exposed-secret response.
-- 🚨 **Incident Response Simulator** — Make decisions during simulated security incidents.
-- 📈 **XP & Ranking System** — Earn experience and progress through operator ranks.
-- 🗂️ **Mission History** — Review previous attempts, scores, and completion status.
-- 🔐 **Authentication** — Account registration and login with Argon2 password hashing.
-- 🖥️ **Tactical Terminal UI** — Rich-powered interface with a Hidden Clan identity.
+<pre>
+A web-based cybersecurity tool that analyzes URLs and
+email content for potential phishing indicators using
+rule-based detection and heuristic scoring.
 
-**Built with:** Python, Rich, SQLite, Argon2, and pytest
+FEATURES
+--------
+[+] URL and email analysis
+[+] Risk scoring and security dashboard
+[+] SQLite analysis history
+[+] Responsive user interface
+[+] Flask-powered backend
 
-**Testing:** 101 automated tests passed during development.
+STACK
+-----
+Python | Flask | SQLite | HTML | CSS | JavaScript
+</pre>
 
-🔗 **[View Source Code](https://github.com/dandorii/YoruTerminal)**
+- **Source:** [github.com/dandorii/PhishGuard](https://github.com/dandorii/PhishGuard)
+- **Live Demo:** [phishguard-ujkh.onrender.com](https://phishguard-ujkh.onrender.com/)
 
-*Infiltrate. Analyze. Adapt.* 🥷
+---
 
-## 🧰 Tech Stack & Tools
+<pre>
+============================================================
+[ PROJECT 02 ] YORU TERMINAL
+============================================================
+</pre>
 
-### Languages
+### <code>YORU Terminal — Cybersecurity Training Simulator</code>
+
+<pre>
+A shinobi-inspired, menu-driven cybersecurity training
+game built with Python.
+
+Explore interactive missions, investigate simulated threats,
+and practice cybersecurity decision-making in a tactical
+terminal environment.
+
+MISSIONS
+--------
+[01] Phishing Detective
+     Identify phishing indicators in suspicious messages.
+
+[02] Log Investigator
+     Analyze simulated logs and investigate unusual activity.
+
+[03] Security Puzzle Room
+     Explore encoding, password security, and exposed secrets.
+
+[04] Incident Response Simulator
+     Make decisions during simulated security incidents.
+
+SYSTEM FEATURES
+---------------
+[+] XP and operator ranking system
+[+] Mission history and completion status
+[+] Account registration and login
+[+] Argon2 password hashing
+[+] Rich-powered terminal interface
+
+STACK
+-----
+Python | Rich | SQLite | Argon2 | pytest
+
+TEST STATUS
+-----------
+101 automated tests passed during development.
+</pre>
+
+- **Source:** [github.com/dandorii/YoruTerminal](https://github.com/dandorii/YoruTerminal)
+
+<pre>
+MOTTO: Infiltrate. Analyze. Adapt.
+</pre>
+
+---
+
+<pre>
+root@dandorii:~$ cat tech_stack.txt
+
+LANGUAGES
+---------
+Python | Java | HTML5 | CSS3 | JavaScript
+
+TECHNOLOGIES & TOOLS
+--------------------
+Flask | SQLite | Git | GitHub
+Linux | Kali Linux | Visual Studio Code
+
+root@dandorii:~$ cat interests.txt
+
+[+] Web Application Security
+[+] Ethical Hacking & Penetration Testing
+[+] Phishing Detection & Threat Analysis
+[+] Network and Operating System Security
+[+] Capture The Flag (CTF) Challenges
+[+] Secure Software Development
+
+root@dandorii:~$ cat currently_learning.txt
+
+[+] Web penetration testing
+[+] Linux commands and security tools
+[+] Python scripting for cybersecurity
+[+] Web vulnerabilities and remediation
+[+] Secure Flask application deployment
+</pre>
+
+---
+
+<pre>
+root@dandorii:~$ cat mission_objectives.txt
+
+[ ] Build practical cybersecurity projects.
+[ ] Improve programming and problem-solving skills.
+[ ] Identify, understand, and remediate vulnerabilities.
+[ ] Develop ethical hacking and defensive security skills.
+[ ] Contribute to a safer digital community.
+
+root@dandorii:~$ ./connect --social
+</pre>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-</p>
-
-I'm continuously expanding my technical knowledge through hands-on projects, experimentation, and learning.
-
----
-
-## 🔐 Areas of Interest
-
-- 🌐 Web Application Security
-- 🛡️ Ethical Hacking & Penetration Testing
-- 🎣 Phishing Detection & Threat Analysis
-- 🖥️ Network and Operating System Security
-- 🚩 Capture The Flag (CTF) Challenges
-- 🔒 Secure Software Development
-
----
-
-## 📚 Currently Learning
-
-- Web penetration testing and security assessment
-- Linux commands and security tools
-- Python scripting for cybersecurity
-- Common web vulnerabilities and their remediation
-- Secure deployment of Flask applications
-
----
-
-## 🎯 My Goals
-
-- Build practical cybersecurity projects.
-- Develop strong programming and problem-solving skills.
-- Learn to identify, understand, and remediate security vulnerabilities.
-- Gain hands-on experience with ethical hacking and defensive security.
-- Contribute to a safer and more security-aware digital community.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning, collaborating on projects, and connecting with fellow developers and cybersecurity enthusiasts.
-
-<p align="left">
   <a href="https://github.com/dandorii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/marco-reyes-826617309/?isSelfProfile=true">
+  <a href="https://www.linkedin.com/in/marco-reyes-826617309/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 </p>
 
----
+<pre>
+root@dandorii:~$ echo "Learn continuously. Build responsibly. Stay curious."
+Learn continuously. Build responsibly. Stay curious.
 
-<p align="center">
-  <i>Learn continuously. Build responsibly. Stay curious.</i> 🔐
-</p>
+root@dandorii:~$ exit
+</pre>
