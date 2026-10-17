@@ -48,6 +48,31 @@ A web-based cybersecurity tool designed to analyze URLs and email content for po
 
 ---
 
+---
+
+### 🥷 [YORU Terminal — Cybersecurity Training Simulator](https://github.com/dandorii/YoruTerminal)
+
+A shinobi-inspired, menu-driven cybersecurity training game built with Python. YORU Terminal lets users explore cybersecurity concepts through interactive missions, investigate simulated threats, and practice security decision-making in a tactical terminal environment.
+
+**Features**
+
+- 🎣 **Phishing Detective** — Identify phishing indicators in suspicious messages.
+- 🔎 **Log Investigator** — Analyze simulated system logs and investigate unusual activity.
+- 🧩 **Security Puzzle Room** — Explore encoding concepts, password security, and exposed-secret response.
+- 🚨 **Incident Response Simulator** — Make decisions during simulated security incidents.
+- 📈 **XP & Ranking System** — Earn experience and progress through operator ranks.
+- 🗂️ **Mission History** — Review previous attempts, scores, and completion status.
+- 🔐 **Authentication** — Account registration and login with Argon2 password hashing.
+- 🖥️ **Tactical Terminal UI** — Rich-powered interface with a Hidden Clan identity.
+
+**Built with:** Python, Rich, SQLite, Argon2, and pytest
+
+**Testing:** 101 automated tests passed during development.
+
+🔗 **[View Source Code](https://github.com/dandorii/YoruTerminal)**
+
+*Infiltrate. Analyze. Adapt.* 🥷
+
 ## 🧰 Tech Stack & Tools
 
 ### Languages
