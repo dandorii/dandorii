@@ -147,6 +147,39 @@ MOTTO: Infiltrate. Analyze. Adapt.
 ---
 
 <pre>
+============================================================
+[ PROJECT 03 ] KENSHI PORTFOLIO
+============================================================
+</pre>
+
+### <code>Kenshi Portfolio — Personal Developer Website</code>
+
+<pre>
+A personal portfolio inspired by Persona 3 Portable,
+designed as a digital space for my projects, interests,
+personal reflections, and web development experiments.
+
+Built with a distinctive dark interface, interactive
+elements, and a visual style influenced by the atmosphere
+and menus of Persona 3 Portable.
+
+FEATURES
+--------
+[+] Persona 3 Portable-inspired visual design
+[+] Interactive sections and navigation
+[+] Personal archive and reflection system
+[+] Responsive layout for different screen sizes
+[+] Custom HTML, CSS, and JavaScript
+
+STACK
+-----
+HTML5 | CSS3 | JavaScript | GitHub Pages
+</pre>
+
+- **Live Portfolio:** [kenshidev.github.io](https://dandorii.github.io/kenshi-portfolio-website/)
+- **Source:** [github.com/dandorii/kenshi-portfolio-website](https://github.com/dandorii/kenshi-portfolio-website)
+
+<pre>
 root@dandorii:~$ cat tech_stack.txt
 
 LANGUAGES
